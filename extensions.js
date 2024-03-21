@@ -49,7 +49,7 @@ export const CardExtension = {
           }        
         </style>
         <div class="imagen-container">
-            <img src="https://ihjsites.blob.core.windows.net/cards/imagenes/ak.webp" alt="Imagen con efecto hover">
+            <img src="https://image.nuevayork.es/wp-content/uploads/2020/03/New-York-Helicopter-Tour-2.eric_both.bottom_right.jpg" alt="Imagen con efecto hover" alt="Imagen con efecto hover">
             <div class="imagen-hover">
                 <h1>Arkansas</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere vitae error explicabo dolorum recusandae alias, placeat incidunt vel, aut ipsum id, cupiditate asperiores fuga! Provident!</p>
